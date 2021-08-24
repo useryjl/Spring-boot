@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "dog",
+      "type": "com.example.bean.Dog",
+      "sourceType": "com.example.bean.Dog"
+    },
+    {
+      "name": "person",
+      "type": "com.example.bean.Person",
+      "sourceType": "com.example.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "dog.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.bean.Dog"
+    },
+    {
+      "name": "dog.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.bean.Dog"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.example.bean.Dog",
+      "sourceType": "com.example.bean.Person"
+    },
+    {
+      "name": "person.email",
+      "type": "java.lang.String",
+      "sourceType": "com.example.bean.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.bean.Person"
+    }
+  ],
+  "hints": []
+}

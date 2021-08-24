@@ -1,0 +1,8 @@
+com\example\config\MyConfig.class
+META-INF\spring-configuration-metadata.json
+com\example\DemoApplication.class
+com\example\service\HelloService.class
+com\example\controller\Hellocontroller.class
+com\example\bean\Person.class
+com\example\controller\Sayhello.class
+com\example\bean\Dog.class
